@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parcial_2</string>
+    <string name="user">Daniel111</string>
+    <string name="password">daniel123</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
